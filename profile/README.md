@@ -1,8 +1,11 @@
-# A propos de Tyrolium
+# A propos de TyroDiscord
 
-Tyrolium est une entreprise multisectorielle qui travaille sur plusieurs projets, principalement sur du développement Web mais aussi notamment du développement de jeux vidéos ou d'applications, de la musique, ou de l'audiovisuel.
+TyroDiscord est avant tout un projet appartenant à l'entreprise Tyrolium, qui travaille dans la tech.
 
-Elle propose principalement des prestations de services de création de site Web et d'applications pour les particuliers et les professionnels.
+Plus d'informations sur le bouton ci-dessous.
 
-Les profits générés par ces prestations seront directement investies dans les projets de l'entreprise.
+TyroDiscord œuvre à améliorer l'expérience du réseau social Discord avec des logiciels, progiciels et bot
 
+Mais avant tout en respectant le réseau et ses exigences.
+
+A aucun moment le projet a pour but d'utiliser ses compétences à des fins de modifications, obtentions/collectes de données non conformes à leur règlement.
